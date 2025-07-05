@@ -1,9 +1,9 @@
 {
-  "name": "weather_app",
+  "name": "Weathers",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Dhanalakshmi745.github.io/weather",
+  "homepage": "https://Dhanalakshmi745.github.io/Weathers",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
